@@ -1,0 +1,19 @@
+{
+  "name": "flappy-bird-browser-game",
+  "version": "1.0.0",
+  "description": "flappy bird in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdeepak2002/flappy-bird-browser-game.git"
+  },
+  "author": "Deepak Ramalingam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdeepak2002/flappy-bird-browser-game/issues"
+  },
+  "homepage": "https://github.com/rdeepak2002/flappy-bird-browser-game#readme"
+}
