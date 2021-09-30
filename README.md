@@ -1,4 +1,4 @@
-## Flappy Bird Browser Game
+# Browser Game Template
 
 ## How to Setup the Project
 
@@ -20,6 +20,7 @@ Edit package.json
 ## How to Run the Project
 
 ```shell
+npm i
 npm start
 ```
 
